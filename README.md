@@ -32,7 +32,7 @@ To use this Project, you can clone the project by git clone (https url or SSH ur
 
 ## Credits
 
-Instruction is taken from EDX Bootcamp starter readme file.
+Above Instruction section is taken from EDX Bootcamp starter readme file.
 
 ## License
 
